@@ -1,0 +1,3 @@
+2차원 리스트의 복사는 "deepcopy"를 사용하여야 한다.
+링크 : https://dojang.io/mod/page/view.php?id=2294
+
